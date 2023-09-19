@@ -1,0 +1,16 @@
+historicalpastoral input_files/Hamlet.txt:1
+intelligentcapable input_files/Hamlet.txt:1
+trademarkcopyright input_files/Hamlet.txt:1
+trademarkcopyright input_files/JuliusCeaser.txt:1
+unattendedknocking input_files/MacBeth.txt:1
+waitinggentlewoman input_files/MacBeth.txt:1
+trademarkcopyright input_files/MacBeth.txt:1
+davidrinconnectcom input_files/Othello.txt:1
+trademarkcopyright input_files/RomeoAndJuliet.txt:1
+httppglaforgdonate input_files/RomeoAndJuliet.txt:1
+felicitycommission input_files/TomSawyer.txt:1
+reconnoiterslearns input_files/TomSawyer.txt:1
+titlepageprofessor input_files/TomSawyer.txt:1
+carpetingadmission input_files/TomSawyer.txt:1
+rightlyconstructed input_files/TomSawyer.txt:1
+trademarkcopyright input_files/TomSawyer.txt:1

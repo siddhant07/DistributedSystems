@@ -1,0 +1,11 @@
+pastoricalcomical input_files/Hamlet.txt:1
+prisonhousemalone input_files/Hamlet.txt:1
+revengeaboutseekburnfirekillslaylet input_files/JuliusCeaser.txt:1
+hartprairienetorg input_files/Othello.txt:1
+expeditiontrouble input_files/TomSawyer.txt:1
+counterirritation input_files/TomSawyer.txt:1
+consciencesmitten input_files/TomSawyer.txt:1
+inqueststatements input_files/TomSawyer.txt:1
+catfishprovisions input_files/TomSawyer.txt:1
+disappointmentfor input_files/TomSawyer.txt:1
+beganhesitatingly input_files/TomSawyer.txt:1

@@ -1,5 +1,5 @@
 import socket
-PORT=6969
+PORT=6942
 TYPE='utf-8'
 
 def get_func(sock_code, key):
@@ -12,13 +12,14 @@ def send_func(sock_code, key, value):
     command = f"set {key} {value}"
     sock_code.send(command.encode())
     response = sock_code.recv(1024).decode()
+    print(response)
     print("Server said:  %s" %response)
 
 def start_client():
     client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM) 
     IP = socket.gethostname()    
     command = input("What should I execute?: ")    
-    client_socket.connect(IP, PORT)   
+    client_socket.connect((IP, PORT))   
     
     if command.strip().startswith("set"):
         params = command.split(" ")
